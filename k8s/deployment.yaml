@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: devops-k8s-app
-          image: devops-k8s-app:1.1
+          image: devops-k8s-app:2.1
           imagePullPolicy: IfNotPresent
 
           ports:
